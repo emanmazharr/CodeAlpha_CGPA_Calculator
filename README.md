@@ -17,19 +17,28 @@ This C++ program calculates the CGPA (Cumulative Grade Point Average) based on u
 Enter the number of courses: 3
 
 Course Entry 1:
+
 Enter grade points: 3.7
+
 Enter credit hours: 3
 
 Course Entry 2:
+
 Enter grade points: 3.3
+
 Enter credit hours: 2
 
 Course Entry 3:
+
 Enter grade points: 4.0
+
 Enter credit hours: 1
 
 Total Grade Points: 24.7
+
 Total Credit Hours: 6
+
 Your CGPA is: 3.88
+
 GitHub: [github.com/emanmazharr](https://github.com/emanmazharr)
 
