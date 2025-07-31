@@ -40,5 +40,14 @@ Total Credit Hours: 6
 
 Your CGPA is: 3.88
 
+## 🛠️ Technologies Used
+
+- C++
+- Dev C++
+
+## 📌 Author
+
+Eman Mazhar  
+
 GitHub: [github.com/emanmazharr](https://github.com/emanmazharr)
 
